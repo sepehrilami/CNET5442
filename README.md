@@ -1,4 +1,4 @@
-# CNET 5442 - Sepehr Ilami
+# Sports Analytics through Data and Networks
 
 This repository contains all assignments and the project completed for the CNET 5442 course.
 
